@@ -12,7 +12,7 @@ def truthtable():
     for row in t_list:
         print(f"{row[0]} | {row[1]} | {row[2]}")
 
-    
+    //question 01
     print("***Truth Table***")
     print("P | Q | R | (P --> Q) OR (Q --> R) | (P --> Q) AND (Q <--> R)")
     print("_______________________________________________________________")
